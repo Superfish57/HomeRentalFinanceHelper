@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Home Rental Finance Helper</string>
+
+    <!-- Login Screen -->
+    <string name="login_button_text">Sign in with Homeaway</string>
+    <string name="homeaway_oauth_url">https://ws.homeaway.com/oauth/authorize?client_id=</string>
+</resources>
